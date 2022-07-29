@@ -1,0 +1,20 @@
+body{
+background-color: orangered; 
+}
+.firstheader{
+    font-family: Impact, sans-serif;
+    text-align: center;
+}
+#litem{
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#hrid{
+    color: peachpuff;
+}
+.nimg{
+    aspect-ratio: auto;
+    width:auto;
+    height: 400px;
+}
